@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emelendez
+- 👀 I’m interested in Vue, Nuxt, Vuetify (I'm a pro in their 2.x versions)
+- 🌱 I’m currently learning Vue 3, Nuxt 3, Vuetify 3
+- 💞️ I’m looking to collaborate on frontend projects with Vue,Nuxt,Vuetify technologies involved
+- 📫 How to reach me enriquemelendezestrada@gmail.com
